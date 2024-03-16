@@ -1,0 +1,41 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": "2.204",
+	"version": "v1.0.0-alpha.1",
+	"id": "endrei.wavetraileditor",
+	"name": "Colored Wave Trail",
+	"developer": "Endrei",
+	"description": "Colors the Wave Trail",
+
+    "resources": {
+        "sprites": [
+            "resources/*.png"
+
+        ]
+	},
+
+
+	"settings": {
+		"R": {
+			"name": "R",
+			"description": "RGB Stuff",
+			"type": "int",
+			"default": 255
+		},
+
+		"G": {
+			"name": "G",
+			"description": "RGB Stuff",
+			"type": "int",
+			"default": 255
+		},
+
+		"B": {
+			"name": "B",
+			"description": "RGB Stuff",
+			"type": "int",
+			"default": 255
+		}
+
+	}
+}
